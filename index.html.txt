@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>개인정보 처리방침</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>개인정보 처리방침</h1>
+
+    <section>
+        <p class="section-title">1. 개인정보의 수집 메가 사용 목적</p>
+        <p>본 서비스는 고객에게 바로와 나은 서비스를 제공하기 위해 다음과 같은 목적을 위해 개인정보를 수집합니다.</p>
+        <ul>
+            <li>서비스 제공 및 운영 (회원가입, 서비스 이용 지원 등)</li>
+            <li>고객 관리 및 문의 대응</li>
+            <li>매트갈릭 및 이벤트 알림</li>
+            <li>법적 의무 준지를 위한 기록 보관</li>
+        </ul>
+    </section>
+
+    <section>
+        <p class="section-title">2. 수집하는 개인정보 항목</p>
+        <ul>
+            <li>필수 정보: 이름, 이메일 주소, 전화번호, 생년월일</li>
+            <li>선호 정보: 주소, 성별</li>
+            <li>자동 수집 정보: 접속 IP, 코키, 방문 기록</li>
+        </ul>
+    </section>
+
+    <section>
+        <p class="section-title">3. 개인정보 처리 및 보관 기간</p>
+        <p>개인정보는 수집 및 이용 메가 당적 후 지참 없이 파기됩니다. 다른 경우 관련 법률에 따라 특정 기간 보관합니다.</p>
+        <ul>
+            <li>예: 전자사업법에 의한 거래 기록 (5년), 통신비밀보호법에 의한 로그 기록 (3개월)</li>
+        </ul>
+    </section>
+
+    <section>
+        <p class="section-title">4. 보유 기간 및 삭제 방법</p>
+        <ul>
+            <li>보유 기간: 서비스 이용 종료 후 6개월 또는 관련 법률에 의한 기간</li>
+            <li>삭제 방법: 전자 파일 형태는 반환 불가능한 기술적 방법으로 삭제, 문서 형태는 분세</li>
+        </ul>
+    </section>
+
+    <section>
+        <p class="section-title">5. 개인정보의 제3자 제공</p>
+        <p>원칙적으로 고객의 개인정보를 제3자에게 제공하지 않습니다. 제공이 필요한 경우, 고객의 사전 동의를 받습니다.</p>
+        <ul>
+            <li>제공받는 자: [회사명/기관명]</li>
+            <li>제공 목적: [목적 기지]</li>
+            <li>제공 항목: [제공 항목]</li>
+        </ul>
+    </section>
+
+    <section>
+        <p class="section-title">6. 이용자의 권력과 행사 방법</p>
+        <p>이용자는 본인의 개인정보에 대해 다음과 같은 권력을 행사할 수 있습니다.</p>
+        <ul>
+            <li>개인정보 열람, 수정, 삭제 요청</li>
+            <li>개인정보 제공 및 처리에 대한 동의 취소</li>
+        </ul>
+        <p>요청은 [고객센터 이메일] 또는 [웹페이지] 를 통해 가능합니다.</p>
+    </section>
+
+    <section>
+        <p class="section-title">7. 개인정보 보호 책임자</p>
+        <ul>
+            <li>이름: [담당자 이름]</li>
+            <li>소속 및 직위: [소속 및 직위]</li>
+            <li>이메일: [이메일 주소]</li>
+            <li>전화번호: [전화번호]</li>
+        </ul>
+    </section>
+
+    <section>
+        <p class="section-title">8. 기타 사항</p>
+        <p>이 개인정보 처리방침은 [날짜]부터 적용됩니다. 변경 사항이 발생할 경우 사전 공지합니다.</p>
+    </section>
+</body>
+</html>
